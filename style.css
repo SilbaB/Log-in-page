@@ -116,7 +116,7 @@ button:hover
     .container
     {
         flex-direction: column;
-        height: 100vh;
+        height: 105vh;
         overflow: hidden;
     }
     .cardside,.details
@@ -133,5 +133,13 @@ button:hover
     textarea
     {
         display: none;
+    }
+    h2
+    {
+        font-size: 1.5rem;
+    }
+    .track
+    {
+        margin-bottom: 20px;
     }
 }
