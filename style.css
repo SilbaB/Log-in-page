@@ -142,4 +142,8 @@ button:hover
     {
         margin-bottom: 20px;
     }
+    .cardside
+    {
+        height: 400px;
+    }
 }
