@@ -111,6 +111,12 @@ button:hover
     border: 2px solid navy;
 }
 
+.rsvp
+{
+    text-align: center;
+    color: white;
+}
+
 @media (max-width:500px)
 {
     .container
