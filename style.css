@@ -111,3 +111,14 @@ button:hover
     border: 2px solid navy;
 }
 
+@media (max-width:500px)
+{
+    .container
+    {
+        flex-direction: column;
+    }
+    .cardside,.details
+    {
+        width: 90%;
+    }
+}
