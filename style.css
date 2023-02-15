@@ -116,7 +116,8 @@ button:hover
     .container
     {
         flex-direction: column;
-        height: auto;
+        height: 100vh;
+        overflow: hidden;
     }
     .cardside,.details
     {
@@ -128,5 +129,9 @@ button:hover
     }
     .details{
         margin-bottom: 20px;
+    }
+    textarea
+    {
+        display: none;
     }
 }
