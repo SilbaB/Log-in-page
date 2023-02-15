@@ -116,7 +116,7 @@ button:hover
     .container
     {
         flex-direction: column;
-        height: 105vh;
+        height: 100%;
         overflow: hidden;
     }
     .cardside,.details
@@ -144,6 +144,6 @@ button:hover
     }
     .cardside
     {
-        height: 250px;
+        height: 280px;
     }
 }
